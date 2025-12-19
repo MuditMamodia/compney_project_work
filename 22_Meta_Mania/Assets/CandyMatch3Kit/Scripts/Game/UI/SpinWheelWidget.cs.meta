@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a0b3830da8cba4b4bb38d15d959360cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Game/UI/SpinWheelWidget.cs
+  uploadId: 805118

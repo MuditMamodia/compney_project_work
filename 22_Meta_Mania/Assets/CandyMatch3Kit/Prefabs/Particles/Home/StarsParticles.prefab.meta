@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc694e7e799ef422db04c75d73d4b79a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Prefabs/Particles/Home/StarsParticles.prefab
+  uploadId: 805118

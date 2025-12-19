@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 86890e950f50e45bdb055984da722067
+timeCreated: 1502391300
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/WinPopup/Stars/StarPop.anim
+  uploadId: 805118

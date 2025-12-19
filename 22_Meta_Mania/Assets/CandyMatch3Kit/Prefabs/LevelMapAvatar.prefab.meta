@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8a0a67104687543f8bd5fc76d96fa4b3
+timeCreated: 1513457336
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Prefabs/LevelMapAvatar.prefab
+  uploadId: 805118

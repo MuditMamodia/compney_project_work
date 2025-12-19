@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 590bb05d83a8747d6b303d3512365ff9
+timeCreated: 1503836228
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/RadialShine/RadialHome1Idle.anim
+  uploadId: 805118

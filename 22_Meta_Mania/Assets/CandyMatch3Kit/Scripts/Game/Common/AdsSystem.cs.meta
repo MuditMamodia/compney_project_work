@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e3ed35fd639644acf86e1685d49b5da3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Game/Common/AdsSystem.cs
+  uploadId: 805118

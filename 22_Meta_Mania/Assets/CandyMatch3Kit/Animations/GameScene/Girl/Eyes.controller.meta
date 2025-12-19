@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 56ae3a34e19b049bf8a9d786656104cb
+timeCreated: 1518887215
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/GameScene/Girl/Eyes.controller
+  uploadId: 805118

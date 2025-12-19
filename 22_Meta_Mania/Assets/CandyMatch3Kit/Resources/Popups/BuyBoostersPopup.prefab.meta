@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ff9b17678af9d4140adc066aa47cfd4c
+timeCreated: 1513453227
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Resources/Popups/BuyBoostersPopup.prefab
+  uploadId: 805118

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f6be7cc196cd84e9a8ecc14edcac4a04
+timeCreated: 1513454870
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/Popup.controller
+  uploadId: 805118

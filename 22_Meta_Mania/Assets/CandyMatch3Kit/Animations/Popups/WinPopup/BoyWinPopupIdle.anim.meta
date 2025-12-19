@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4048fbdc1160449a898873e95e4779ba
+timeCreated: 1532361812
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/WinPopup/BoyWinPopupIdle.anim
+  uploadId: 805118

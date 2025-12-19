@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c3522ef5529d241d6bc2c4cc663313e4
+timeCreated: 1513368774
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Resources/Popups/NoMovesOrTimePopup.prefab
+  uploadId: 805118

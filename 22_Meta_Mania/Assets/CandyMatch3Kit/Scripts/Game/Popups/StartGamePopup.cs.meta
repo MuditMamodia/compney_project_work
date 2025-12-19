@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4c2a343e841f727489d7cd4c8b60e641
+timeCreated: 1516711751
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Game/Popups/StartGamePopup.cs
+  uploadId: 805118

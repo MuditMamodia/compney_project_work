@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 921614db7ca2c4464aaa4c5d94f1fa6d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Prefabs/DailyBonusItem.prefab
+  uploadId: 805118

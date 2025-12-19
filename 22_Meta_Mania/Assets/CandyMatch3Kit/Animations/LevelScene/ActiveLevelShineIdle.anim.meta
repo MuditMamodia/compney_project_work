@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b45001ca0497c4f7ba20729a8619823a
+timeCreated: 1512939266
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/LevelScene/ActiveLevelShineIdle.anim
+  uploadId: 805118

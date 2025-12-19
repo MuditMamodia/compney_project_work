@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a9a0c3a6bb50439eb6ac0c5ca71d478
+timeCreated: 1518202350
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Resources/Levels/30.json
+  uploadId: 805118

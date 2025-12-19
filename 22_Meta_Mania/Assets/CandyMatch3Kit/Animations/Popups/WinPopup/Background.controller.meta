@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a77fa013f031d42a085854ce8f852452
+timeCreated: 1513527282
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/WinPopup/Background.controller
+  uploadId: 805118

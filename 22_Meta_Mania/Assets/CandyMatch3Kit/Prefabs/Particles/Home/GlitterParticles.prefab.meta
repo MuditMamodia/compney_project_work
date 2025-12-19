@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f0ba451bb4b941fc8456fd9c5c8be17
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Prefabs/Particles/Home/GlitterParticles.prefab
+  uploadId: 805118

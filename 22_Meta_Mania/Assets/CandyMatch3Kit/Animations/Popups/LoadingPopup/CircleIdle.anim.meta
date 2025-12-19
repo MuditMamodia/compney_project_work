@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f49526613963d48e680c90e55a1dd6e2
+timeCreated: 1511371595
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/LoadingPopup/CircleIdle.anim
+  uploadId: 805118

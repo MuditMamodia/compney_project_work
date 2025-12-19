@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b3c9329bf809a4d82a14c387f57efe71
+timeCreated: 1512935226
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Buttons/BasicButtons/Button_Soft.overrideController
+  uploadId: 805118

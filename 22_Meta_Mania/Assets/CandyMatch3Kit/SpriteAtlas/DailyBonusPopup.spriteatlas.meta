@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c264e3fba08848409f115f1e9fcdd50
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4343727234628468602
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/SpriteAtlas/DailyBonusPopup.spriteatlas
+  uploadId: 805118

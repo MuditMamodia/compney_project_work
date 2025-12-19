@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 720618304d209483882dcd7760dba7d0
+timeCreated: 1512903613
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scenes/HomeScene.unity
+  uploadId: 805118

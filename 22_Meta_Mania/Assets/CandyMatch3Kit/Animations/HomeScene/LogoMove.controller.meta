@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 78955b03377354b66b26d321d3144568
+timeCreated: 1512931709
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/HomeScene/LogoMove.controller
+  uploadId: 805118

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 17a97d0a428da4fd1a592299aa5415d8
+timeCreated: 1502391350
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/WinPopup/Stars/Star3.overrideController
+  uploadId: 805118

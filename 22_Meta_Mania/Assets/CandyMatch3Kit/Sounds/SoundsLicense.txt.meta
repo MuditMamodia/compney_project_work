@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6452c8fdc58e0d47b7d76398bd33e02
+timeCreated: 1512938389
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Sounds/SoundsLicense.txt
+  uploadId: 805118

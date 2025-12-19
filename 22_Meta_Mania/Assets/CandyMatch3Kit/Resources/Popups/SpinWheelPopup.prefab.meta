@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cdff0843cac52426792b727f625fa81b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Resources/Popups/SpinWheelPopup.prefab
+  uploadId: 805118

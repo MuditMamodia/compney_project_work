@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 159faed3b2609425bb4bf59571ae6161
+timeCreated: 1532363615
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/NoMovesOrTimePopup/Boy.controller
+  uploadId: 805118

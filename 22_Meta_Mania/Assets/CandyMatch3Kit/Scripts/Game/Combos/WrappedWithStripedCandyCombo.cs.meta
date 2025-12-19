@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2155c37a642ed0e49b05cf0009dd21dc
+timeCreated: 1529572856
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Game/Combos/WrappedWithStripedCandyCombo.cs
+  uploadId: 805118

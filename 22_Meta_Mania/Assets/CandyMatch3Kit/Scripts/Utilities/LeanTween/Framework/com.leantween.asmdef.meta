@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da05cfec51b6c974cb48c8b604fd519d
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Utilities/LeanTween/Framework/com.leantween.asmdef
+  uploadId: 805118

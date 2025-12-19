@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e111a2feb6f374170a970a44ce360d69
+timeCreated: 1512939366
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Prefabs/LevelMapButton.prefab
+  uploadId: 805118

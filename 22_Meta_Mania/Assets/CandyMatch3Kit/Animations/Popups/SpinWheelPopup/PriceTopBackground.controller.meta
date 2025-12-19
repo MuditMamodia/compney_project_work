@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 25eceb06795b748599248805b5beb109
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/SpinWheelPopup/PriceTopBackground.controller
+  uploadId: 805118

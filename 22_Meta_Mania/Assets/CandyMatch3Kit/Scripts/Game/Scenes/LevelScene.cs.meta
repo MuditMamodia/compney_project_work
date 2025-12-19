@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e9b4c13784f674e45b9268bf2b6bf179
+timeCreated: 1516711674
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Game/Scenes/LevelScene.cs
+  uploadId: 805118

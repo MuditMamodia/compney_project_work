@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e1a837f3a62f654dbb0b52f65bd88f0
+timeCreated: 1516710632
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Prefabs/GameManager.prefab
+  uploadId: 805118

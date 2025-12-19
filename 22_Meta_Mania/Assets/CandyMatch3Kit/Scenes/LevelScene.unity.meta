@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d29ee93b574348d8a749da70944c2bd
+timeCreated: 1512903613
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scenes/LevelScene.unity
+  uploadId: 805118

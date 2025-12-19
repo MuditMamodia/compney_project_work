@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8dcf2673c18e148d491bf79bf354398a
+timeCreated: 1517597993
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/WinPopup/MarshmallowRight.controller
+  uploadId: 805118

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ff5a6a4a9df9cfc43b04b16bbc045902
+timeCreated: 1451205262
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Utilities/FullSerializer/Source/fsISerializationCallbacks.cs
+  uploadId: 805118

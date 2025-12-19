@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c67b9b09d648e314892887926498d1d9
+timeCreated: 1516042244
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Game/Common/TilePool.cs
+  uploadId: 805118

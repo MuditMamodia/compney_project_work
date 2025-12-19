@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e4d616ef6bd284a54b9771c495aa9e62
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Prefabs/Particles/Level/Cloud9Particle.prefab
+  uploadId: 805118

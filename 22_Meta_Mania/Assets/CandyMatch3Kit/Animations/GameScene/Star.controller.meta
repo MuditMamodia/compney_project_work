@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 27652783be9b94add816295ac9b82a0e
+timeCreated: 1518968186
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/GameScene/Star.controller
+  uploadId: 805118

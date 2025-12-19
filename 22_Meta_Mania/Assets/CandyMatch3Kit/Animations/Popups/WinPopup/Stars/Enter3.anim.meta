@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 57a400a03bc1543c2b5888b49dad479d
+timeCreated: 1502391377
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/WinPopup/Stars/Enter3.anim
+  uploadId: 805118

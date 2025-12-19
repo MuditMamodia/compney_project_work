@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e48afcdad6a1fb842af03b6569736216
+timeCreated: 1518631299
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Game/Boosters/Booster.cs
+  uploadId: 805118

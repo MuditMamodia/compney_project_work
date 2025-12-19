@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f2144b4ff308480f8f60801c2954814
+timeCreated: 1503600147
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/WinPopup/Stars/StarIdle3.anim
+  uploadId: 805118

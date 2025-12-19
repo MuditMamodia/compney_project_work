@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 59570a586ff53421bba7e470d412d182
+timeCreated: 1511373911
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/LoadingPopup/Enter6.anim
+  uploadId: 805118

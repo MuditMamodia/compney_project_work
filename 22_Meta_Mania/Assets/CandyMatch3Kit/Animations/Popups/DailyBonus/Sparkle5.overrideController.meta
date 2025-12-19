@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2fe6f3da782e243f1a58d54669bf6726
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/DailyBonus/Sparkle5.overrideController
+  uploadId: 805118

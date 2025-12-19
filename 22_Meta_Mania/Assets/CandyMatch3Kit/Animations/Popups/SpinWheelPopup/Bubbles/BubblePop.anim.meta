@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ab98a71f145046b0be70303929bb06e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/SpinWheelPopup/Bubbles/BubblePop.anim
+  uploadId: 805118

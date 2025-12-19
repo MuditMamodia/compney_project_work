@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f7f3fff68d7b45b0a26be8a8750a549
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/SpinWheelPopup/Bubbles/Bubble.controller
+  uploadId: 805118

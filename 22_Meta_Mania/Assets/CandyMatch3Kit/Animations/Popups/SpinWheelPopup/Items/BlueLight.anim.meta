@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c34710efd5534deea939ab0316391de
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/SpinWheelPopup/Items/BlueLight.anim
+  uploadId: 805118

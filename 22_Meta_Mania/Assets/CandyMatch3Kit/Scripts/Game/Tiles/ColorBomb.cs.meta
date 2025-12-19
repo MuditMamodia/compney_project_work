@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e706a40aaedb6af40a21fb6bf518b988
+timeCreated: 1515174742
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Game/Tiles/ColorBomb.cs
+  uploadId: 805118

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5dcc44c5054e24dfaaf96d844f3acaad
+timeCreated: 1511373921
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/LoadingPopup/Circle6.overrideController
+  uploadId: 805118

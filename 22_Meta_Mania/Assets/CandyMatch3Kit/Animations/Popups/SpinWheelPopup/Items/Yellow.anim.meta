@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7cd57b72c0efa4931b76f1f6255921bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/SpinWheelPopup/Items/Yellow.anim
+  uploadId: 805118

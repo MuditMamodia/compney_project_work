@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 857efd832d0bb40ec9cef257cb238ecd
+timeCreated: 1532361805
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/WinPopup/BoyWinPopup.controller
+  uploadId: 805118

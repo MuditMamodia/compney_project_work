@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7bd62fbf589ad42fbb1fca5f46a3932a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/SpinWheelPopup/Items/Red.anim
+  uploadId: 805118

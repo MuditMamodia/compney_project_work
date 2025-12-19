@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cfdc5f584dd504d7abe2a9e01941a23e
+timeCreated: 1532362687
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/LosePopup/BoyLosePopupIdle.anim
+  uploadId: 805118

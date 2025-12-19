@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 27bbaa55392b40b47a7b5bed58a71c61
+timeCreated: 1516711723
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Game/UI/LevelButton.cs
+  uploadId: 805118

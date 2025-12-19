@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 631dd4161db5e4a51bb694ec31bd9535
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/DailyBonus/SparkleIdle.anim
+  uploadId: 805118

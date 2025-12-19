@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d7a24fac91bcf4b2684d66c263641ddc
+timeCreated: 1512934809
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/HomeScene/Candies/YellowCandyIdle.anim
+  uploadId: 805118

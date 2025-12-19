@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 88e9e04d4f2ce4d80ba3dc8f30303466
+timeCreated: 1518467573
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/NoMovesOrTimePopup/CloudEnter3.anim
+  uploadId: 805118

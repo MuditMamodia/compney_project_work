@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6f776270e67befa4d8cb2ee17848cf4a
+timeCreated: 1519066816
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Prefabs/ComplimentText.prefab
+  uploadId: 805118

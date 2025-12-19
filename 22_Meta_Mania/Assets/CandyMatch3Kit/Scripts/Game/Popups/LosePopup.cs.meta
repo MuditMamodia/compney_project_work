@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9e8566e5af39b1c4599742f84dae5ec7
+timeCreated: 1517225317
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Game/Popups/LosePopup.cs
+  uploadId: 805118

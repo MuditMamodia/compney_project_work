@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a25b09a99d89410abb4e131e7bc54d8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/SpinWheelPopup/Bubbles/BubbleEnter3.anim
+  uploadId: 805118

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0a3569b2df3bb46d996e73c90b92e914
+timeCreated: 1512931879
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/HomeScene/GirlIdle.anim
+  uploadId: 805118

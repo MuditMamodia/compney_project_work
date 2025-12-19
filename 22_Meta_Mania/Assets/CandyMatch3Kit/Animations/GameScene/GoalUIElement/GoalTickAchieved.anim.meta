@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 036cec18a5a358643b7b3d1ddbb20927
+timeCreated: 1518088609
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/GameScene/GoalUIElement/GoalTickAchieved.anim
+  uploadId: 805118

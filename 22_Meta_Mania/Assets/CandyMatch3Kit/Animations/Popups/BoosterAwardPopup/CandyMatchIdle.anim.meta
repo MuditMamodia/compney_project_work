@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a4607544ece5648348d03b59670c771e
+timeCreated: 1505146114
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/BoosterAwardPopup/CandyMatchIdle.anim
+  uploadId: 805118

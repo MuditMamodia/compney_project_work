@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a08b38f5e9c646318210761a1b9ecf2c
+timeCreated: 1575379899
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Utilities/LeanTween/Editor/LeanTweenEditorUtils.cs
+  uploadId: 805118

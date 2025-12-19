@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1ca0f285af8dd4270bd759978223faad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Utilities/LeanTween/Framework/LeanSmooth.cs
+  uploadId: 805118

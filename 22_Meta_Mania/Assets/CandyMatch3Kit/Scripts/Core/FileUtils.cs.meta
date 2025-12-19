@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b5a4db20f017cec489e8eecda98e2242
+timeCreated: 1516277058
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Core/FileUtils.cs
+  uploadId: 805118

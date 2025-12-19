@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f61bdcf053b6d4590b74a2953da5f91e
+timeCreated: 1512903613
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scenes/GameScene.unity
+  uploadId: 805118

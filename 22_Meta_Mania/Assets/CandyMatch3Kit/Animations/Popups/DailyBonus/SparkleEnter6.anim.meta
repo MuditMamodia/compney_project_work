@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a08f9694c921b4c4eb1b4a01cc612c55
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/DailyBonus/SparkleEnter6.anim
+  uploadId: 805118

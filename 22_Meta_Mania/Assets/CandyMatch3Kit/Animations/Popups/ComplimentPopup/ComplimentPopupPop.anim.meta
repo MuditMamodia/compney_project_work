@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bb5cd4a0245c44923bedbb78778b66d3
+timeCreated: 1518973434
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/ComplimentPopup/ComplimentPopupPop.anim
+  uploadId: 805118

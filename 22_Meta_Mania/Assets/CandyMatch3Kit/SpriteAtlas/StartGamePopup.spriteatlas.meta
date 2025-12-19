@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4f19fd6d2d0bb4a4b8755de14449f7f7
+timeCreated: 1519129945
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 4343727234628468602
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/SpriteAtlas/StartGamePopup.spriteatlas
+  uploadId: 805118

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cc1ac0bc71a184b09955fdbbe1bfa5b9
+timeCreated: 1517421738
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/ItemMove/ItemsMove.controller
+  uploadId: 805118

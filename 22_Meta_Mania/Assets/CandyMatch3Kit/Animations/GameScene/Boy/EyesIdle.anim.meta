@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1dcdeeea707bd4703a8640f1c7a751f4
+timeCreated: 1532358095
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/GameScene/Boy/EyesIdle.anim
+  uploadId: 805118

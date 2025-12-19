@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: efe0022d7723b45da86beab562c0e46d
+timeCreated: 1512935226
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Buttons/BasicButtons/Pressed_Soft.anim
+  uploadId: 805118

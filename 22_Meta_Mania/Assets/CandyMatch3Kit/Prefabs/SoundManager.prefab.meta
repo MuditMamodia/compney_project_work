@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b60472828bd724b5b943a4ce101a2049
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Prefabs/SoundManager.prefab
+  uploadId: 805118

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cb8843beed6c042cea779ff486bbb7bd
+timeCreated: 1518467464
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/NoMovesOrTimePopup/Cloud.controller
+  uploadId: 805118

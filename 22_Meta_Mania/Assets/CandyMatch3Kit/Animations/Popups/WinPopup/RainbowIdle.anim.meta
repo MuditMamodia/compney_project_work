@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2961559bbc37b4c0f87c4aaa1d762b82
+timeCreated: 1517598239
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/WinPopup/RainbowIdle.anim
+  uploadId: 805118

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b1152205fb4547e409ff6ae0b0586015
+timeCreated: 1518291728
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Scripts/Game/Common/TileScoreType.cs
+  uploadId: 805118

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5795e49648a914942b75a7889327918f
+timeCreated: 1513343483
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Resources/Popups/BuyLivesPopup.prefab
+  uploadId: 805118

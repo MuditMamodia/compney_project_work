@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0feb48753c3294a688866331e2955198
+timeCreated: 1513455192
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Resources/Popups/InGameSettingsPopup.prefab
+  uploadId: 805118

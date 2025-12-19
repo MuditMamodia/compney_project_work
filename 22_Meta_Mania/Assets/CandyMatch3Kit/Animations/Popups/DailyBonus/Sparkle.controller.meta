@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1c6ee628a5ae4af3a2307f7b797a9cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/Popups/DailyBonus/Sparkle.controller
+  uploadId: 805118

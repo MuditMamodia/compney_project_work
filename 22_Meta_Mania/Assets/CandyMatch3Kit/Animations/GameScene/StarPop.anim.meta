@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 51ec519d0e4e345e2be24b730b56eeba
+timeCreated: 1518968193
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111083
+  packageName: Candy Match 3 Kit
+  packageVersion: 3.0.0
+  assetPath: Assets/CandyMatch3Kit/Animations/GameScene/StarPop.anim
+  uploadId: 805118
