@@ -14,7 +14,7 @@ public class script_for_adding_moves : MonoBehaviour
     void settingthemoves_test_function()
     {
         //AddMoves(1);
-        //SetMoves(1);
+        SetMoves(1);
     }
 
     // Add a number of moves to current limit
