@@ -54,6 +54,12 @@ namespace GameVanilla.Game.UI
         private GameObject shineAnimation;
 #pragma warning restore 649
 
+        //Mudit changes starts here------------------
+        public Font levelnumberfont;
+
+
+        // mudit changes ends here-------------------------
+
         /// <summary>
         /// Unity's Awake method.
         /// </summary>
@@ -70,6 +76,22 @@ namespace GameVanilla.Game.UI
             Assert.IsNotNull(star2);
             Assert.IsNotNull(star3);
             Assert.IsNotNull(shineAnimation);
+
+
+            //mudit changes starts here-------------------
+            if (levelnumberfont != null)
+            {
+                numLevelTextBlue.font = levelnumberfont;
+                numLevelTextPink.font = levelnumberfont;
+            }
+            //  TEXT COLOR = BLACK
+            numLevelTextBlue.color = Color.black;
+            numLevelTextPink.color = Color.black;
+
+            //  REMOVE OUTLINES / SHADOWS
+            RemoveTextEffects(numLevelTextBlue);
+            RemoveTextEffects(numLevelTextPink);
+            // mudit changes ends here-------------------------
         }
 
         /// <summary>
@@ -163,5 +185,21 @@ namespace GameVanilla.Game.UI
                 }
             }
         }
+
+        private void RemoveTextEffects(Text text)
+        {
+            Outline[] outlines = text.GetComponents<Outline>();
+            foreach (var outline in outlines)
+            {
+                Destroy(outline);
+            }
+
+            Shadow shadow = text.GetComponent<Shadow>();
+            if (shadow != null)
+            {
+                Destroy(shadow);
+            }
+        }
+
     }
 }
